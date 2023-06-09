@@ -1,0 +1,7 @@
+{
+  "name": "notifications",
+  "version": "2.0.0",
+  "main": "src/anilist.js",
+  "type": "module",
+  "license": "MIT"
+}
